@@ -1,0 +1,12 @@
+.index-banner{
+  width: 375rpx;
+  height: 375rpx;
+  border-radius: 50%;
+}
+.nav-defult{
+  color: blue;
+}
+.nav-hover{
+  color: red;
+}
+
